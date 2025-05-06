@@ -1,0 +1,30 @@
+/* General Body */
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Hero Section */
+  .hero-content h1 {
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+  }
+  
+  .hero-content p {
+    color: white;
+  }
+  
+  /* Cards */
+  .card img {
+    height: 250px;
+    object-fit: cover;
+  }
+  
+  /* Footer */
+  footer a:hover {
+    text-decoration: underline;
+    color: #f8f9fa;
+  }
+  
